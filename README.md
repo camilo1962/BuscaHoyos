@@ -1,54 +1,44 @@
+Esta es una  versión juego de rompecabezas, Bloxorz, creado con Unity 3D y C#.
 
-# Bloxorz Game
+El juego desafía a los jugadores a maniobrar un bloque de 1 por 1 por 2 a través de una serie de laberintos y obstáculos para llegar a un punto final designado en una orientación de bloque particular. El bloque está controlado por las teclas de flecha donde rueda en la dirección dada por la entrada.
 
-This is a remake of the classic puzzle game, Bloxorz, built using Unity 3D and C#. 
+Este juego amplía algunos niveles
+## Características
 
-The game challenges players to maneuver a 1-by-1-by-2 block through a series of mazes and obstacles to reach a designated endpoint in a particular block orientation. The block is controlled by the arrow keys where it rolls in the direction given by the input.
+- Gráficos 3D: el juego presenta gráficos 3D diseñados a medida que seguramente sumergirán a los jugadores en el mundo de Bloxorz.
 
-This game extends the classic Bloxorz by adding new types of traps and enemy blocks. Additionally, this version also features time-sensitive reaction based levels alongside the classic puzzle based levels.
-## Features
+- Controles de las teclas de flecha: los controles del juego están diseñados para ser fáciles de usar, con teclas de flecha que permiten a los jugadores manipular el bloque de diversas formas.
 
-- 3D Graphics: The game features custom-designed 3D graphics that are sure to immerse players in the world of Bloxorz.
+- Adaptado para su uso en moviles a traves de botones que controlan al player.
 
-- Arrow Key Controls: The game's controls are designed to be easy to use, with arrow keys allowing players to manipulate the block in a variety of ways.
+- Jugabilidad basada en rompecabezas: Los niveles presentan diferentes tipos de rompecabezas, incluidos laberintos difíciles de resolver y rompecabezas basados ​​en habilidades y tiempos que requieren sincronización y reflejos perfectos.
 
-- Challenging Levels: The game features 20 challenging levels that will test players' spatial awareness, logical thinking, and problem-solving skills.
-
-- Puzzle-Based Gameplay: The levels feature different types of puzzles, including difficult to solve mazes and skill/timing-based puzzles that require perfect timing and reflexes.
-
-- Enemies and Traps: The game includes enemies and traps that players must avoid in order to complete certain levels.
+- Enemigos y trampas: el juego incluye enemigos y trampas que los jugadores deben evitar para completar ciertos niveles.
 
 
-## Getting Started
+## Empezando
 
-### Prerequisites
-- Unity 3D (version 2019 or later)
-- Visual Studio (version 2019 recomended)
-- Works best on Windows
+### Requisitos previos
+- Unity 3D (versión 2019 o posterior)
+- Visual Studio (versión 2019 recomendada)
+- Funciona mejor en cualquier plataforma
 
-### Installation
-- Clone the repository using the following command:
-```
-git clone https://github.com/SaikrishnaTadepalli/Bloxorz-Game.git
-```
-- Open the project in Unity 3D.
-- Build and run the project.
-## Usage
+## Uso
 
-- Start the game by clicking on the "Play" button.
+- Inicie el juego haciendo clic en el botón "Jugar".
 
-- Navigate through the levels by manipulating the block using the arrow keys.
+- Navega por los niveles manipulando el bloque usando las teclas de flecha.
 
-- Reach the designated endpoint to complete the level and progress to the next one.
+- Llega al punto final designado para completar el nivel y avanzar al siguiente.
 
-- Avoid enemies and traps to progress through certain levels.
+- Evita enemigos y trampas para avanzar a través de ciertos niveles.
 
-- Solve the puzzles in each level to progress.
+- Resuelve los acertijos de cada nivel para progresar.
 
 
-## Credits
+## Créditos
 
-This project was inspired by the classic game, [Bloxorz](https://www.coolmathgames.com/0-bloxorz).
-## License
+Este proyecto se inspiró en el juego clásico [Bloxorz] (https://www.coolmathgames.com/0-bloxorz).
+## Licencia
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+Este proyecto tiene la licencia [MIT](https://choosealicense.com/licenses/mit/).
