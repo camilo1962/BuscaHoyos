@@ -1,3 +1,6 @@
+![](https://github.com/camilo1962/Buscar-Palabras/blob/main/Assets/Images/portada.png)
+
+
 Esta es una  versión juego de rompecabezas, Bloxorz, creado con Unity 3D y C#.
 
 El juego desafía a los jugadores a maniobrar un bloque de 1 por 1 por 2 a través de una serie de laberintos y obstáculos para llegar a un punto final designado en una orientación de bloque particular. El bloque está controlado por las teclas de flecha donde rueda en la dirección dada por la entrada.
