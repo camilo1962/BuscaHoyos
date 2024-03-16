@@ -1,4 +1,4 @@
-![](https://github.com/camilo1962/Buscar-Palabras/blob/main/Assets/Images/portada.png)
+![]([https://github.com/camilo1962/BuscaHoyos/blob/main/Assets/Sprites/captura.jpg)
 
 
 Esta es una  versión juego de rompecabezas, Bloxorz, creado con Unity 3D y C#.
